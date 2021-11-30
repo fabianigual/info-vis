@@ -1,0 +1,50 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Asesinatos en pd.Series.pdf
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: mil’metros
+Dimensiones de la mesa de trabajo: 700 mm x 1100 mm
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Moderat Light (OTF)
+Moderat Mono Light (OTF)
+Moderat Mono Medium (OTF)
+Moderat Extended Bold (OTF)
+Source Code Variable Semibold (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Usuarios/javieraalvear/Descargas/avance-vis_Carpeta/links/garavito.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 3729K, 1004 por 951 p’xeles
+Dimensiones: 137,783 por 130,509 puntos 
+Resoluci—n: 524,652 por 524,652 p’xeles por pulgada
